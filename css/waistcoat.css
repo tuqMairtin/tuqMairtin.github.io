@@ -1,0 +1,19 @@
+body {
+	background: url(../img/waistcoat_pocket_watch_fantasy.jpg);
+	background-repeat: repeat-both;
+}
+
+a {
+    color: #ffff99;
+    text-decoration: none;
+}
+
+h1 {
+	font-size: 24px;
+	font-family: 'Arial';
+	font-weight: bold;
+	color: #ffff99;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 400px;
+}

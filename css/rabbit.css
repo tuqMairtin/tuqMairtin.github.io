@@ -1,0 +1,25 @@
+body {
+	background: #000;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.rabbit {
+	margin: 0 auto;
+	margin-top: 180px;
+	text-align: center;
+
+}
+
+h1 {
+	font-size: 24px;
+	font-family: 'Arial';
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 30px;
+}
